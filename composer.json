@@ -1,0 +1,11 @@
+{
+    "name": "norcross/gravity-tooltips",
+    "description": "Adds a custom field to each form element for tooltips",
+    "authors": [
+        {
+            "name": "Norcross",
+            "email": "andrew@andrewnorcross.com"
+        }
+    ],
+    "require": {}
+}
