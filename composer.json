@@ -1,5 +1,6 @@
 {
     "name": "norcross/gravity-tooltips",
+    "type": "wordpress-plugin",
     "description": "Adds a custom field to each form element for tooltips",
     "authors": [
         {
